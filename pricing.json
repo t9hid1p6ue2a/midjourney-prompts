@@ -1,15 +1,14 @@
 {
   "repo": "midjourney-prompts",
-  "model": "midjourney",
-  "display": "Midjourney",
-  "variant": "prompts",
-  "snapshot": "2026-09-24",
-  "unit": "usd_per_call",
+  "model": null,
+  "route": "gateway",
+  "variant": "midjourney",
+  "snapshot": "2026-09-28",
+  "unit": "mixed",
   "tiers": {
-    "default": 0.04504,
-    "imagine": 0.04504,
-    "imagine-niji6": 0.04504,
-    "imagine-niji7": 0.04504
+    "GPT Image 2.5 (1K)": 0.0085,
+    "Seedance 2.0 Mini (480P/sec)": 0.01056,
+    "Qwen3.7 Flash (per M input)": 0.0228568
   },
-  "source": "https://go.apimart.ai/k-bce01a"
+  "source": "https://go.apimart.ai/k-dec766"
 }

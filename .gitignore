@@ -1,3 +1,5 @@
-__pycache__/
 .env
+*.log
+node_modules/
+__pycache__/
 .DS_Store
